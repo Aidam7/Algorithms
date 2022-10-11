@@ -1,0 +1,30 @@
+C:\Users\Pečenka Adam\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Arrays\Arrays\bin\Debug\net6.0\Arrays.exe
+C:\Users\Pečenka Adam\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Arrays\Arrays\bin\Debug\net6.0\Arrays.deps.json
+C:\Users\Pečenka Adam\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Arrays\Arrays\bin\Debug\net6.0\Arrays.runtimeconfig.json
+C:\Users\Pečenka Adam\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Arrays\Arrays\bin\Debug\net6.0\Arrays.dll
+C:\Users\Pečenka Adam\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Arrays\Arrays\bin\Debug\net6.0\Arrays.pdb
+C:\Users\Pečenka Adam\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Arrays\Arrays\obj\Debug\net6.0\Arrays.csproj.AssemblyReference.cache
+C:\Users\Pečenka Adam\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Arrays\Arrays\obj\Debug\net6.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pečenka Adam\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Arrays\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\Pečenka Adam\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Arrays\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfo.cs
+C:\Users\Pečenka Adam\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Arrays\Arrays\obj\Debug\net6.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Pečenka Adam\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Arrays\Arrays\obj\Debug\net6.0\Arrays.dll
+C:\Users\Pečenka Adam\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Arrays\Arrays\obj\Debug\net6.0\refint\Arrays.dll
+C:\Users\Pečenka Adam\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Arrays\Arrays\obj\Debug\net6.0\Arrays.pdb
+C:\Users\Pečenka Adam\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Arrays\Arrays\obj\Debug\net6.0\Arrays.genruntimeconfig.cache
+C:\Users\Pečenka Adam\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Arrays\Arrays\obj\Debug\net6.0\ref\Arrays.dll
+D:\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Arrays\Arrays\bin\Debug\net6.0\Arrays.exe
+D:\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Arrays\Arrays\bin\Debug\net6.0\Arrays.deps.json
+D:\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Arrays\Arrays\bin\Debug\net6.0\Arrays.runtimeconfig.json
+D:\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Arrays\Arrays\bin\Debug\net6.0\Arrays.dll
+D:\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Arrays\Arrays\bin\Debug\net6.0\ref\Arrays.dll
+D:\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Arrays\Arrays\bin\Debug\net6.0\Arrays.pdb
+D:\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Arrays\Arrays\obj\Debug\net6.0\Arrays.csproj.AssemblyReference.cache
+D:\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Arrays\Arrays\obj\Debug\net6.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Arrays\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfoInputs.cache
+D:\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Arrays\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfo.cs
+D:\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Arrays\Arrays\obj\Debug\net6.0\Arrays.csproj.CoreCompileInputs.cache
+D:\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Arrays\Arrays\obj\Debug\net6.0\Arrays.dll
+D:\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Arrays\Arrays\obj\Debug\net6.0\ref\Arrays.dll
+D:\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Arrays\Arrays\obj\Debug\net6.0\Arrays.pdb
+D:\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Arrays\Arrays\obj\Debug\net6.0\Arrays.genruntimeconfig.cache
