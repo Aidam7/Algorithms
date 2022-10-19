@@ -1,0 +1,30 @@
+D:\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Journal\Journal\bin\Debug\net6.0\Journal.exe
+D:\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Journal\Journal\bin\Debug\net6.0\Journal.deps.json
+D:\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Journal\Journal\bin\Debug\net6.0\Journal.runtimeconfig.json
+D:\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Journal\Journal\bin\Debug\net6.0\Journal.dll
+D:\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Journal\Journal\bin\Debug\net6.0\Journal.pdb
+D:\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Journal\Journal\obj\Debug\net6.0\Journal.csproj.AssemblyReference.cache
+D:\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Journal\Journal\obj\Debug\net6.0\Journal.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Journal\Journal\obj\Debug\net6.0\Journal.AssemblyInfoInputs.cache
+D:\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Journal\Journal\obj\Debug\net6.0\Journal.AssemblyInfo.cs
+D:\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Journal\Journal\obj\Debug\net6.0\Journal.csproj.CoreCompileInputs.cache
+D:\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Journal\Journal\obj\Debug\net6.0\Journal.dll
+D:\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Journal\Journal\obj\Debug\net6.0\refint\Journal.dll
+D:\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Journal\Journal\obj\Debug\net6.0\Journal.pdb
+D:\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Journal\Journal\obj\Debug\net6.0\Journal.genruntimeconfig.cache
+D:\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Journal\Journal\obj\Debug\net6.0\ref\Journal.dll
+C:\Users\Pečenka Adam\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Journal\Journal\bin\Debug\net6.0\Journal.exe
+C:\Users\Pečenka Adam\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Journal\Journal\bin\Debug\net6.0\Journal.deps.json
+C:\Users\Pečenka Adam\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Journal\Journal\bin\Debug\net6.0\Journal.runtimeconfig.json
+C:\Users\Pečenka Adam\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Journal\Journal\bin\Debug\net6.0\Journal.dll
+C:\Users\Pečenka Adam\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Journal\Journal\bin\Debug\net6.0\Journal.pdb
+C:\Users\Pečenka Adam\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Journal\Journal\obj\Debug\net6.0\Journal.csproj.AssemblyReference.cache
+C:\Users\Pečenka Adam\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Journal\Journal\obj\Debug\net6.0\Journal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pečenka Adam\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Journal\Journal\obj\Debug\net6.0\Journal.AssemblyInfoInputs.cache
+C:\Users\Pečenka Adam\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Journal\Journal\obj\Debug\net6.0\Journal.AssemblyInfo.cs
+C:\Users\Pečenka Adam\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Journal\Journal\obj\Debug\net6.0\Journal.csproj.CoreCompileInputs.cache
+C:\Users\Pečenka Adam\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Journal\Journal\obj\Debug\net6.0\Journal.dll
+C:\Users\Pečenka Adam\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Journal\Journal\obj\Debug\net6.0\refint\Journal.dll
+C:\Users\Pečenka Adam\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Journal\Journal\obj\Debug\net6.0\Journal.pdb
+C:\Users\Pečenka Adam\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Journal\Journal\obj\Debug\net6.0\Journal.genruntimeconfig.cache
+C:\Users\Pečenka Adam\OneDrive - DELTA - SŠIE, s.r.o\AL3\Algoritmy\Journal\Journal\obj\Debug\net6.0\ref\Journal.dll
